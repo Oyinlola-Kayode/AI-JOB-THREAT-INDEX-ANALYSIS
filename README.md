@@ -61,6 +61,7 @@ Findings and Insights
 - Total Tasks by Domain
 
 The Hospitality, Sales & Marketing, and Construction domains exhibit the highest levels of AI task automation, each surpassing 190,000 tasks. This underscores the extensive integration of AI in industries involving substantial operational and logistical tasks. Conversely, domains such as Healthcare and Data & IT display comparatively lower task counts.
+![image](https://github.com/user-attachments/assets/67c660b3-7cae-46e4-831d-90596d40772d)
 
 
 -Top 10 Jobs Most Impacted by AI
@@ -75,10 +76,12 @@ The top 10 job roles most affected by AI include:
 
 These roles are anticipated to undergo significant changes in task execution due to AI’s involvement.
 
+![image](https://github.com/user-attachments/assets/0536adeb-ac4c-4988-a8ca-69a96b1d12d0)
 
 - Correlation between AI Impact and Workload Ratio
 
 A strong positive correlation exists between the AI impact score and the workload ratio. For instance, jobs with an AI impact score above 0.90 also had an AI workload ratio close to 0.14, indicating a heavy reliance on AI systems for task completion. In sectors such as Sales & Marketing and Administration, high workloads coupled with repetitive, process-driven tasks have seen increased automation. However, the Healthcare and Legal sectors exhibit lower workloads relative to AI automation due to the necessity for human-centric decision-making and complex problem-solving.
+![image](https://github.com/user-attachments/assets/55f41274-bed3-424d-8c5c-4ee1db7bf4cf)
 
 
 AI Impact Distribution
@@ -91,10 +94,14 @@ The distribution of AI impact across different job roles is categorized into thr
 
 High Impact Category (3%): Jobs like data entry clerks and telemarketers predominantly fall into this category, where most of their workload is automated by AI, leading to fewer human interventions.
 
+![image](https://github.com/user-attachments/assets/de96e33a-34f9-4533-870e-6b708ce72863) ![image](https://github.com/user-attachments/assets/85d83eb3-009d-47ad-89ca-b4364f71da89)
+
+
 AI Models Per Domain
 
 Job roles within domains such as Administrative & Clerical and Communication & PR demonstrate a high adoption of AI models for routine tasks like data sorting and validation.
 
+![image](https://github.com/user-attachments/assets/38162615-2842-4d16-af30-e1aa7fe8ff65)
 
 Conclusion
 
