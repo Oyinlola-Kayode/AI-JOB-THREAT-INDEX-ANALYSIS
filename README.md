@@ -81,6 +81,7 @@ These roles are anticipated to undergo significant changes in task execution due
 - Correlation between AI Impact and Workload Ratio
 
 A strong positive correlation exists between the AI impact score and the workload ratio. For instance, jobs with an AI impact score above 0.90 also had an AI workload ratio close to 0.14, indicating a heavy reliance on AI systems for task completion. In sectors such as Sales & Marketing and Administration, high workloads coupled with repetitive, process-driven tasks have seen increased automation. However, the Healthcare and Legal sectors exhibit lower workloads relative to AI automation due to the necessity for human-centric decision-making and complex problem-solving.
+
 ![image](https://github.com/user-attachments/assets/55f41274-bed3-424d-8c5c-4ee1db7bf4cf)
 
 
